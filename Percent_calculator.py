@@ -24,7 +24,7 @@ while(op != 'e'):
 		print("Are u want to continue, y or n?")
 		choice = input("Enter opertation: ")
 		while True:
-			if choice == 'y': #Mayby do an extra thing i thin big y and big N
+			if choice == 'y': 
 				percent = int(input("Enter percent: "))
 				number = int(input("Enter number: "))
 				result = print(percent, "%", "for", number, "=", op1(percent, number))
@@ -42,7 +42,7 @@ while(op != 'e'):
 		print("Are u want to continue, y or n?")
 		choice = input("Enter opertation: ")
 		while True:
-			if choice == 'y': #Mayby do an extra thing i thin big y and big N
+			if choice == 'y':
 				percent = int(input("Enter percent: "))
 				number = int(input("Enter number: "))
 				result = print(percent, "%", "for", number, "=", op1(percent, number))
@@ -60,7 +60,7 @@ while(op != 'e'):
 		print("Are u want to continue, y or n?")
 		choice = input("Enter opertation: ")
 		while True:
-			if choice == 'y': #Mayby do an extra thing i thin big y and big N
+			if choice == 'y': 
 				percent = int(input("Enter percent: "))
 				number = int(input("Enter number: "))
 				result = print(percent, "%", "for", number, "=", op1(percent, number))
@@ -77,7 +77,7 @@ while(op != 'e'):
 		print("Are u want to continue, y or n?")
 		choice = input("Enter opertation: ")
 		while True:
-			if choice == 'y': #Mayby do an extra thing i thin big y and big N
+			if choice == 'y': 
 				percent = int(input("Enter percent: "))
 				number = int(input("Enter number: "))
 				result = print(percent, "%", "for", number, "=", op1(percent, number))
